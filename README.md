@@ -24,3 +24,14 @@ ZIN AI is a Vision-powered AI Prompt Finder that transforms images and videos in
 ## 🔐 Environment Variables
 
 Set in Vercel:
+
+## 📦 Deployment
+
+1. Push to GitHub
+2. Import project in Vercel
+3. Add environment variable
+4. Deploy
+
+---
+
+Built for creators who want high-precision cinematic prompt reconstruction.
