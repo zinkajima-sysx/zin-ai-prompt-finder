@@ -1,2 +1,37 @@
-# zin-ai-prompt-finder
-ZIN AI is an advanced Vision-powered Prompt Finder that transforms images and videos into high-level cinematic Text-to-Image and Text-to-Video prompts. Built for creators, filmmakers, and AI content professionals.
+# 🧠 ZIN AI – Advanced Prompt Finder
+
+ZIN AI is a Vision-powered AI Prompt Finder that transforms images and videos into advanced cinematic Text-to-Image and Text-to-Video prompts.
+
+## 🚀 Features
+
+- Image & Video Upload
+- Vision-based Visual Analysis
+- Advanced Prompt Reconstruction
+- Text-to-Image Prompt Generation
+- Text-to-Video Prompt Generation
+- Copy-ready Prompt Output
+- PWA Ready Architecture
+- Serverless API Integration
+
+## 🏗 Tech Stack
+
+- Frontend: Vanilla JS
+- Backend: Vercel Serverless Functions
+- Vision Engine: OpenAI Vision API
+- Deployment: Vercel
+- Version Control: GitHub
+
+## 🔐 Environment Variables
+
+Set in Vercel:
+
+## 📦 Deployment
+
+1. Push to GitHub
+2. Import project in Vercel
+3. Add environment variable
+4. Deploy
+
+---
+
+Built for creators who want high-precision cinematic prompt reconstruction.
